@@ -1,6 +1,8 @@
-Hi, I’m Fawn!
-I know Python, HTML, CSS, and JS.
-I am learning Java and vue.js.
+- 💠: Hi, I'm Fawn!
+- 💠: Coding Langauges: Python|HTML|CSS|JS
+- 💠: Learning: Java and vue.js
+- 💠: Interests: Coding|Math|Reading
+
 
 
 <!---
