@@ -1,7 +1,5 @@
-## Hi, I'm Fawn! :wave:
+## Hi, I'm Fawn! 👋 ![](https://gpvc.arturio.dev/Fawn-27)
 ![programming](https://user-images.githubusercontent.com/117617224/205458132-5f17b709-9be5-4433-be2d-1753877b7941.jpg)
-
-Thanks for visiting! ![](https://gpvc.arturio.dev/Fawn-27)
 
 ## About Me ✨
 I'm an average human living on Earth. You'll typically find me studying with a busy of desktop of >30 tabs and at least two books around me. My hobby's 
@@ -10,12 +8,13 @@ I'm an average human living on Earth. You'll typically find me studying with a b
 - coding and, naturally, solving dozens of bugs (whether I want to or not).
 I just like learning about coding languages. There's no other reasoning to it.
 
-## What I'm Doing
+## What I'm Doing 💻
 - Learning SQLite3
 - Crying over CSS
 - Coding shortcuts for things I don't want to do 
+- Trying to figure out Github
 
-## Skills
+## Skills :octocat:
 I'm fluent in some of these languages but am still learning others:
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
