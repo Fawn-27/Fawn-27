@@ -7,6 +7,7 @@ I'm an average human living on Earth. You'll typically find me studying with a b
 - read books - especially dystopian fiction,
 - practice math, with a preference towards number theory and algebra,
 - code and, naturally, solve dozens of bugs (whether I want to or not).
+
 I just like learning about coding languages. There's no other reasoning to it.
 
 ## What I'm Doing 💻
