@@ -13,8 +13,10 @@ I just like learning about coding languages. There's no other reasoning to it.
 ## What I'm Doing 💻
 - Learning SQLite3
 - Crying over CSS
-- Coding shortcuts for things I don't want to do 
+- Creating a homepage
 - Trying to figure out Github
+
+Sorry, I don't have a lot of stuff here. Most of my work is on Replit and another editor, and I'm too lazy to transfer some of them. I'll do it eventuslly. 
 
 ## Skills :octocat:
 I'm fluent in some of these languages but am still learning others:
