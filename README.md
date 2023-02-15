@@ -11,7 +11,7 @@ I'm an average human living on Earth. You'll typically find me studying with a b
 I just like learning about coding languages. There's no other reasoning to it.
 
 ## What I'm Doing 💻
-- Learning SQLite3
+- Learning Java
 - Crying over CSS
 - Creating a homepage
 - Trying to figure out Github
