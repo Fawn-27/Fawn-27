@@ -4,9 +4,9 @@
 
 ## About Me ✨
 I'm an average human living on Earth. You'll typically find me studying with a busy desktop of >20 tabs and at least two books around me. I like to:
-- read books - especially dystopian fiction,
-- practice math, with a preference towards number theory and algebra,
-- code and, naturally, solve dozens of bugs (whether I want to or not).
+- read (especially dystopian and realistic fiction'
+- sing and listen to music,
+- code.
 
 I just like learning about coding languages. There's no other reasoning to it.
 
