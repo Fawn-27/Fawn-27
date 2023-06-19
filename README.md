@@ -1,6 +1,6 @@
 ![](https://gpvc.arturio.dev/Fawn-27)
 ## Hi, I'm Fawn! 👋         
-![programming](https://user-images.githubusercontent.com/117617224/205458132-5f17b709-9be5-4433-be2d-1753877b7941.jpg)
+![IMG_2260](https://github.com/Fawn-27/Fawn-27/assets/117617224/002e6ee0-27f6-4ac5-b8cc-5fb86110e8ff)
 
 ## About Me ✨
 I'm an average human living on Earth. You'll typically find me studying with a busy desktop of >20 tabs and at least two books around me. I like to:
