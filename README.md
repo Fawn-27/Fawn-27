@@ -1,5 +1,5 @@
 ## Hi, I'm Fawn! 👋         
-![IMG_2262](https://github.com/Fawn-27/Fawn-27/assets/117617224/06b82b35-1db6-4ff9-9367-7015f343fb7e)
+![image](https://github.com/Fawn-27/Fawn-27/assets/117617224/94af797d-f023-40a0-b53a-c79b46329189)
 ![](https://gpvc.arturio.dev/Fawn-27)
 
 ## About Me ✨
