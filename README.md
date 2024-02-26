@@ -2,21 +2,17 @@
 ![](https://gpvc.arturio.dev/Fawn-27)
 
 ## About Me ✨
-I'm an average human living on Earth. You'll typically find me studying with a busy desktop of >20 tabs and at least two books around me. I like to:
-- read (especially dystopian and realistic fiction'
-- sing and listen to music,
-- code.
-
-I just like learning about coding languages. There's no other reasoning to it.
+You'll typically find me studying one subject or another or burying my nose into the latest book I could find. I like to:
+- read
+- sing and listen to music
+- code
 
 ## What I'm Doing 💻
 - Learning Java
-- Crying over CSS
 - Creating a homepage
 - Trying to figure out Github
 
-Sorry, I don't have a lot of stuff here. Most of my work is on Replit and another editor, and I'm too lazy to transfer some of them. I'll do it eventually. 
-
+Most of my work is found on a different editor, and I'm gradually transferring the files over.
 ## Skills :octocat:
 I'm fluent in some of these languages but am still learning others:
 
