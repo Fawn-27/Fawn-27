@@ -1,8 +1,5 @@
-## Hi, I'm Fawn! 👋         
-![](https://gpvc.arturio.dev/Fawn-27)
-
 ## About Me ✨
-You'll typically find me studying one subject or another or burying my nose into the latest book I could find. I like to:
+Hi, I'm Fawn! You'll typically find me studying one subject or another or burying my nose into the latest book I could find. I like to:
 - read
 - sing and listen to music
 - code
